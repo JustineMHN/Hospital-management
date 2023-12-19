@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/justi/OneDrive/Documents/Erasmus/EOOP/Doc/final project/Hospital Management implementation",
-      "program": "c:/Users/justi/OneDrive/Documents/Erasmus/EOOP/Doc/final project/Hospital Management implementation/build/Debug/outDebug",
+      "cwd": "c:/Users/justi/OneDrive/Documents/GitHub/Hospital-management",
+      "program": "c:/Users/justi/OneDrive/Documents/GitHub/Hospital-management/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
